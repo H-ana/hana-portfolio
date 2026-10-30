@@ -20,5 +20,3 @@ Open http://localhost:8080.
 - `dist/style.css` — responsive styles
 - `dist/script.js` — navigation, reading mode, and optional ambient sound
 - `.openai/hosting.json` — existing Sites deployment configuration
-
-The downloadable résumé is not included, pending approval to publish it.
